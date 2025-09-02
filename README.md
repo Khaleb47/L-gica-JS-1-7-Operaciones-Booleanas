@@ -1,4 +1,4 @@
-# L-gica-JS-1-7-Operaciones-Booleanas
+# Lógica-JS-1-7-Operaciones-Booleanas
 Primer Ejercicio del reto #7DaysOfCode
 Este primer día es muy importante. Al final de él, tendrás un nuevo conocimiento que es esencial para los próximos desafíos.
 Existe una situación muy común para quienes usan Javascript: problemas con los tipos de variables al comparar los valores de dos variables entre sí. ¡A mí me ha pasado mucho!
